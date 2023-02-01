@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FindFair</string>
+    <string name="aboutus">This application was created by a Dr. Iqbal student for ICT602 so that users may find funfairs and other events and use it to organise them.  </string>
+    <string name="members">1. DAYANG AISYAH SYAHIRA BINTI ABD MALI\n\n
+
+2. NUR DAYINI SYAHMINA BINTI MUHAMMAD HATTA	\n\n
+
+3. MUHAMMAD AIMAN BIN OTHMAN\n\n
+
+4. MUHAMMAD AZHARI BIN ANUAR\n\n
+
+    </string>
+    <string name="linkgithub">Visit us: <a href="">FindFair.com</a></string>
+    <string name="title_activity_find_event">FindEvent</string>
+    <string name="map_key" translatable="false">AIzaSyCY0X1X7qkZLsQ-BCpAgxDR4RvDmFygj-k </string>
+
+</resources>

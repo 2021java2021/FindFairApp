@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="Aboutus" type="id" />
+    <item name="Signout" type="id" />
+    <item name="Aboutusbtn" type="id" />
+</resources>
