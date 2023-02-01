@@ -65,7 +65,7 @@
                 android:paddingTop="30dp"
                 android:paddingRight="16dp"
                 android:paddingBottom="16dp"
-                android:text="@string/linkgithub"
+                android:text="https://github.com/2021java2021/FindFairApp"
                 android:textColor="@color/white"
                 android:textColorLink="#2859EC" />
 
