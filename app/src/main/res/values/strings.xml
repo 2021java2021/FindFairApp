@@ -10,7 +10,7 @@
 4. MUHAMMAD AZHARI BIN ANUAR\n\n
 
     </string>
-    <string name="linkgithub">Visit us: <a href="">FindFair.com</a></string>
+    <string name="linkgithub">Visit us: <a href="https://github.com/2021java2021/FindFairApp.git">FindFair.com</a></string>
     <string name="title_activity_find_event">FindEvent</string>
     <string name="map_key" translatable="false">AIzaSyCY0X1X7qkZLsQ-BCpAgxDR4RvDmFygj-k </string>
 
